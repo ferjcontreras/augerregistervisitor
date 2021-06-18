@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_obs"
+    android:elevation="10dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center"
+        android:text="Registro de Visitantes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#212121" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="Confirmación de Datos"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#212121"
+        android:textSize="70sp"
+        android:textFontWeight="bold"
+        />
+
+    <android.support.v7.widget.CardView
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:cardCornerRadius="20dp"
+        android:background="#FFFFFF"
+        android:alpha="0.8">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:id="@+id/clave1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="clave1:"
+                    android:textSize="40sp"
+                    android:textStyle="bold"
+                    android:fontFamily="casual"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="ferjcontreras@gmail.com"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/clave2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="País:"
+                    android:fontFamily="casual"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Argentina"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp"
+                >
+
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/clave3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Provincia:"
+                    android:fontFamily="casual"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Mendoza"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/clave4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Departamento:"
+                    android:fontFamily="casual"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Malargue"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/clave5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Cantidad de Visitantes:"
+                    android:fontFamily="casual"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="5"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_margin="10dp">
+
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/clave6"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Cantidad de Visitantes:"
+                    android:fontFamily="casual"
+                    android:textStyle="bold"/>
+                <TextView
+                    android:textSize="40sp"
+                    android:id="@+id/valor6"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="5"
+                    android:fontFamily="casual"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal">
+
+
+        <Button
+            android:layout_marginTop="30dp"
+            android:id="@+id/btnCancelar"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:fontFamily="casual"
+            android:textSize="40sp"
+            android:text="Cancelar"
+            android:background="@drawable/botonredondo_pequeno"
+            android:padding="2dp"/>
+        <Button
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:id="@+id/btnConfirmar"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:text="Confirmar"
+            android:fontFamily="casual"
+            android:textSize="40sp"
+            android:background="@drawable/botonredondo_pequeno"
+            android:padding="2dp"/>
+    </LinearLayout>
+</LinearLayout>

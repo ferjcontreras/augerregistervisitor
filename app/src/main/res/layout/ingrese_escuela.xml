@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_obs"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center"
+        android:text="Registro de Visitantes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#212121" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Nombre"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#212121"
+        android:textSize="35sp"
+        android:textFontWeight="bold"
+        />
+
+    <EditText
+        android:id="@+id/nombre_escuela"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edittextstyle"
+        android:ellipsize="start"
+        android:fontFamily="casual"
+        android:inputType="textEmailAddress"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/lista_escuelas"
+        android:layout_gravity="center"
+        android:layout_width="1000dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="20dp">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

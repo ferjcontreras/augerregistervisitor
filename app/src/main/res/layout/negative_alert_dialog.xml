@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_negative_round">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/ic_mood_bad_black_24dp"/>
+
+    <TextView
+        android:id="@+id/textoDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¡Datos Almacenados!"
+        android:fontFamily="casual"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@android:color/white"/>
+</LinearLayout>

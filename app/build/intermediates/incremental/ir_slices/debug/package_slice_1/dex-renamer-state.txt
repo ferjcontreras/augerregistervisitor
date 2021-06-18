@@ -1,0 +1,4 @@
+#Thu Jul 18 18:35:56 ART 2019
+base.0=/home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

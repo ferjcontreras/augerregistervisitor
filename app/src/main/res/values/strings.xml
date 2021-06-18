@@ -1,0 +1,852 @@
+<resources>
+    <string name="app_name">AugerRegisterVisitor</string>
+
+    <string-array name="paises">
+        <item>Afganistán</item>
+        <item>Albania</item>
+        <item>Alemania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antigua y Barbuda</item>
+        <item>Antillas Holandesas</item>
+        <item>Arabia Saudita</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaiyán</item>
+        <item>Bahamas</item>
+        <item>Bahrein</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Bélgica</item>
+        <item>Belice</item>
+        <item>Benín</item>
+        <item>Bermudas</item>
+        <item>Bielorrusia</item>
+        <item>Bolivia</item>
+        <item>Bosnia y Herzegovina</item>
+        <item>Botsuana</item>
+        <item>Brasil</item>
+        <item>Brunéi</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Bután</item>
+        <item>Cabo Verde</item>
+        <item>Camboya</item>
+        <item>Camerún</item>
+        <item>Canadá</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Chipre</item>
+        <item>Colombia</item>
+        <item>Comores</item>
+        <item>Congo (Brazzaville)</item>
+        <item>Congo (Kinshasa)</item>
+        <item>Cook, Islas</item>
+        <item>Corea del Norte</item>
+        <item>Corea del Sur</item>
+        <item>Costa de Marfil</item>
+        <item>Costa Rica</item>
+        <item>Croacia</item>
+        <item>Cuba</item>
+        <item>Dinamarca</item>
+        <item>Djibouti, Yibuti</item>
+        <item>Ecuador</item>
+        <item>Egipto</item>
+        <item>El Salvador</item>
+        <item>Emiratos árabes Unidos</item>
+        <item>Eritrea</item>
+        <item>Eslovaquia</item>
+        <item>Eslovenia</item>
+        <item>España</item>
+        <item>Estados Unidos</item>
+        <item>Estonia</item>
+        <item>Etiopía</item>
+        <item>Feroe, Islas</item>
+        <item>Filipinas</item>
+        <item>Finlandia</item>
+        <item>Fiyi</item>
+        <item>Francia</item>
+        <item>Gabón</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Granada</item>
+        <item>Grecia</item>
+        <item>Groenlandia</item>
+        <item>Guadalupe</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea Ecuatorial</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungría</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Irak</item>
+        <item>Irán</item>
+        <item>Irlanda</item>
+        <item>Isla Pitcairn</item>
+        <item>Islandia</item>
+        <item>Islas Salomón</item>
+        <item>Islas Turcas y Caicos</item>
+        <item>Islas Virgenes Británicas</item>
+        <item>Israel</item>
+        <item>Italia</item>
+        <item>Jamaica</item>
+        <item>Japón</item>
+        <item>Jersey</item>
+        <item>Jordania</item>
+        <item>Kazajstán</item>
+        <item>Kenia</item>
+        <item>Kirguistán</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Laos</item>
+        <item>Lesotho</item>
+        <item>Letonia</item>
+        <item>Líbano</item>
+        <item>Liberia</item>
+        <item>Libia</item>
+        <item>Liechtenstein</item>
+        <item>Lituania</item>
+        <item>Luxemburgo</item>
+        <item>Macedonia</item>
+        <item>Madagascar</item>
+        <item>Malasia</item>
+        <item>Malawi</item>
+        <item>Maldivas</item>
+        <item>Malí</item>
+        <item>Malta</item>
+        <item>Man, Isla de</item>
+        <item>Marruecos</item>
+        <item>Martinica</item>
+        <item>Mauricio</item>
+        <item>Mauritania</item>
+        <item>México</item>
+        <item>Moldavia</item>
+        <item>Mónaco</item>
+        <item>Mongolia</item>
+        <item>Mozambique</item>
+        <item>Myanmar</item>
+        <item>Namibia</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Nicaragua</item>
+        <item>Níger</item>
+        <item>Nigeria</item>
+        <item>Norfolk Island</item>
+        <item>Noruega</item>
+        <item>Nueva Caledonia</item>
+        <item>Nueva Zelanda</item>
+        <item>Omán</item>
+        <item>Países Bajos, Holanda</item>
+        <item>Pakistán</item>
+        <item>Panamá</item>
+        <item>Papúa-Nueva Guinea</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>Polinesia Francesa</item>
+        <item>Polonia</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Reino Unido</item>
+        <item>República Checa</item>
+        <item>República Dominicana</item>
+        <item>Reunión</item>
+        <item>Ruanda</item>
+        <item>Rumanía</item>
+        <item>Rusia</item>
+        <item>Sáhara Occidental</item>
+        <item>Samoa</item>
+        <item>San Cristobal y Nevis</item>
+        <item>San Marino</item>
+        <item>San Pedro y Miquelón</item>
+        <item>San Tomé y Príncipe</item>
+        <item>San Vincente y Granadinas</item>
+        <item>Santa Elena</item>
+        <item>Santa Lucía</item>
+        <item>Senegal</item>
+        <item>Serbia y Montenegro</item>
+        <item>Seychelles</item>
+        <item>Sierra Leona</item>
+        <item>Singapur</item>
+        <item>Siria</item>
+        <item>Somalia</item>
+        <item>Sri Lanka</item>
+        <item>Sudáfrica</item>
+        <item>Sudán</item>
+        <item>Suecia</item>
+        <item>Suiza</item>
+        <item>Surinam</item>
+        <item>Swazilandia</item>
+        <item>Tadjikistan</item>
+        <item>Tailandia</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Timor Oriental</item>
+        <item>Togo</item>
+        <item>Tokelau</item>
+        <item>Tonga</item>
+        <item>Trinidad y Tobago</item>
+        <item>Túnez</item>
+        <item>Turkmenistan</item>
+        <item>Turquía</item>
+        <item>Tuvalu</item>
+        <item>Ucrania</item>
+        <item>Uganda</item>
+        <item>Uruguay</item>
+        <item>Uzbekistán</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Wallis y Futuna</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+    </string-array>
+
+    <string-array name="provincias">
+        <item>Buenos Aires</item>
+        <item>Catamarca</item>
+        <item>Chaco</item>
+        <item>Chubut</item>
+        <item>Ciudad Autónoma de Buenos Aires</item>
+        <item>Córdoba</item>
+        <item>Corrientes</item>
+        <item>Entre Ríos</item>
+        <item>Formosa</item>
+        <item>Jujuy</item>
+        <item>La Pampa</item>
+        <item>La Rioja</item>
+        <item>Mendoza</item>
+        <item>Misiones</item>
+        <item>Neuquén</item>
+        <item>Río Negro</item>
+        <item>Salta</item>
+        <item>San Juan</item>
+        <item>San Luis</item>
+        <item>Santa Cruz</item>
+        <item>Santa Fe</item>
+        <item>Santiago del Estero</item>
+        <item>Tierra del Fuego</item>
+        <item>Tucumán</item>
+    </string-array>
+
+
+    <string-array name="buenos_aires">
+        <item>25 de Mayo</item>
+        <item>9 de Julio</item>
+        <item>Adolfo Alsina</item>
+        <item>Adolfo Gonzales Chaves</item>
+        <item>Alberti</item>
+        <item>Almirante Brown</item>
+        <item>Arrecifes</item>
+        <item>Avellaneda</item>
+        <item>Ayacucho</item>
+        <item>Azul</item>
+        <item>Bahía Blanca</item>
+        <item>Balcarce</item>
+        <item>Baradero</item>
+        <item>Benito Juárez</item>
+        <item>Berazategui</item>
+        <item>Berisso</item>
+        <item>Bolívar</item>
+        <item>Bragado</item>
+        <item>Brandsen</item>
+        <item>Campana</item>
+        <item>Cañuelas</item>
+        <item>Capitán Sarmiento</item>
+        <item>Carlos Casares</item>
+        <item>Carlos Tejedor</item>
+        <item>Carmen de Areco</item>
+        <item>Castelli</item>
+        <item>Chacabuco</item>
+        <item>Chascomús</item>
+        <item>Chivilcoy</item>
+        <item>Ciudad Libertador San Martín</item>
+        <item>Colón</item>
+        <item>Coronel de Marina Leonardo Rosales</item>
+        <item>Coronel Dorrego</item>
+        <item>Coronel Pringles</item>
+        <item>Coronel Suárez</item>
+        <item>Daireaux</item>
+        <item>Dolores</item>
+        <item>Ensenada</item>
+        <item>Escobar</item>
+        <item>Esteban Echeverría</item>
+        <item>Exaltación de la Cruz</item>
+        <item>Florencio Varela</item>
+        <item>Florentino Ameghino</item>
+        <item>General Alvarado</item>
+        <item>General Alvear</item>
+        <item>General Arenales</item>
+        <item>General Belgrano</item>
+        <item>General Guido</item>
+        <item>General Juan Madariaga</item>
+        <item>General La Madrid</item>
+        <item>General Las Heras</item>
+        <item>General Lavalle</item>
+        <item>General Paz</item>
+        <item>General Pinto</item>
+        <item>General Pueyrredón</item>
+        <item>General Rodríguez</item>
+        <item>General Viamonte</item>
+        <item>General Villegas</item>
+        <item>Guaminí</item>
+        <item>Hipólito Yrigoyen</item>
+        <item>Hurlingham</item>
+        <item>Ituzaingó</item>
+        <item>José C. Paz</item>
+        <item>José M. Ezeiza</item>
+        <item>Junín</item>
+        <item>La Costa</item>
+        <item>La Matanza</item>
+        <item>La Plata</item>
+        <item>Lanús</item>
+        <item>Laprida</item>
+        <item>Las Flores</item>
+        <item>Leandro N. Alem</item>
+        <item>Lezama</item>
+        <item>Lincoln</item>
+        <item>Lobería</item>
+        <item>Lobos</item>
+        <item>Lomas de Zamora</item>
+        <item>Luján</item>
+        <item>Magdalena</item>
+        <item>Maipú</item>
+        <item>Malvinas Argentinas</item>
+        <item>Mar Chiquita</item>
+        <item>Marcos Paz</item>
+        <item>Mercedes</item>
+        <item>Merlo</item>
+        <item>Monte</item>
+        <item>Monte Hermoso</item>
+        <item>Moreno</item>
+        <item>Morón</item>
+        <item>Navarro</item>
+        <item>Necochea</item>
+        <item>Olavarría</item>
+        <item>Patagones</item>
+        <item>Pehuajó</item>
+        <item>Pellegrini</item>
+        <item>Pergamino</item>
+        <item>Pila</item>
+        <item>Pilar</item>
+        <item>Pinamar</item>
+        <item>Presidente Perón</item>
+        <item>Puán</item>
+        <item>Punta Indio</item>
+        <item>Quilmes</item>
+        <item>Ramallo</item>
+        <item>Rauch</item>
+        <item>Rivadavia</item>
+        <item>Rojas</item>
+        <item>Roque Pérez</item>
+        <item>Saavedra</item>
+        <item>Saladillo</item>
+        <item>Salliqueló</item>
+        <item>Salto</item>
+        <item>San Andrés de Giles</item>
+        <item>San Antonio de Areco</item>
+        <item>San Cayetano</item>
+        <item>San Fernando</item>
+        <item>San Isidro</item>
+        <item>San Miguel</item>
+        <item>San Nicolás</item>
+        <item>San Pedro</item>
+        <item>San Vicente</item>
+        <item>Suipacha</item>
+        <item>Tandil</item>
+        <item>Tapalqué</item>
+        <item>Tigre</item>
+        <item>Tordillo</item>
+        <item>Tornquist</item>
+        <item>Trenque Lauquen</item>
+        <item>Tres Arroyos</item>
+        <item>Tres de Febrero</item>
+        <item>Tres Lomas</item>
+        <item>Vicente López</item>
+        <item>Villa Gesell</item>
+        <item>Villarino</item>
+        <item>Zárate</item>
+    </string-array>
+
+    <string-array name="catamarca">
+        <item>Ambato</item>
+        <item>Ancasti</item>
+        <item>Andalgalá</item>
+        <item>Antofagasta de la Sierra</item>
+        <item>Belén</item>
+        <item>Capayán</item>
+        <item>Capital</item>
+        <item>El Alto</item>
+        <item>Fray Mamerto Esquiú</item>
+        <item>La Paz</item>
+        <item>Paclín</item>
+        <item>Pomán</item>
+        <item>Santa María</item>
+        <item>Santa Rosa</item>
+        <item>Tinogasta</item>
+        <item>Valle Viejo</item>
+    </string-array>
+
+    <string-array name="chaco">
+        <item>12 de Octubre</item>
+        <item>1° de Mayo</item>
+        <item>2 de Abril</item>
+        <item>25 de Mayo</item>
+        <item>9 de Julio</item>
+        <item>Almirante Brown</item>
+        <item>Bermejo</item>
+        <item>Chacabuco</item>
+        <item>Comandante Fernández</item>
+        <item>Fray Justo Santa María de Oro</item>
+        <item>General Belgrano</item>
+        <item>General Donovan</item>
+        <item>General Güemes</item>
+        <item>Independencia</item>
+        <item>Libertad</item>
+        <item>Libertador General San Martín</item>
+        <item>Maipú</item>
+        <item>Mayor Luis J. Fontana</item>
+        <item>O\'Higgins</item>
+        <item>Presidencia de la Plaza</item>
+        <item>Quitilipi</item>
+        <item>San Fernando</item>
+        <item>San Lorenzo</item>
+        <item>Sargento Cabral</item>
+        <item>Tapenagá</item>
+    </string-array>
+
+    <string-array name="chubut">
+        <item>Biedma</item>
+        <item>Cushamen</item>
+        <item>Escalante</item>
+        <item>Florentino Ameghino</item>
+        <item>Futaleufú</item>
+        <item>Gaiman</item>
+        <item>Gastre</item>
+        <item>Languiñeo</item>
+        <item>Mártires</item>
+        <item>Paso de Indios</item>
+        <item>Rawson</item>
+        <item>Río Senguer</item>
+        <item>Sarmiento</item>
+        <item>Tehuelches</item>
+        <item>Telsen</item>
+    </string-array>
+
+    <string-array name="cab">
+        <item>Comuna 1</item>
+        <item>Comuna 10</item>
+        <item>Comuna 11</item>
+        <item>Comuna 12</item>
+        <item>Comuna 13</item>
+        <item>Comuna 14</item>
+        <item>Comuna 15</item>
+        <item>Comuna 2</item>
+        <item>Comuna 3</item>
+        <item>Comuna 4</item>
+        <item>Comuna 5</item>
+        <item>Comuna 6</item>
+        <item>Comuna 7</item>
+        <item>Comuna 8</item>
+        <item>Comuna 9</item>
+    </string-array>
+
+    <string-array name="cordoba">
+        <item>Calamuchita</item>
+        <item>Capital</item>
+        <item>Colón</item>
+        <item>Cruz del Eje</item>
+        <item>General Roca</item>
+        <item>General San Martín</item>
+        <item>Ischilín</item>
+        <item>Juárez Celman</item>
+        <item>Marcos Juárez</item>
+        <item>Minas</item>
+        <item>Pocho</item>
+        <item>Presidente Roque Sáenz Peña</item>
+        <item>Punilla</item>
+        <item>Río Cuarto</item>
+        <item>Río Primero</item>
+        <item>Río Seco</item>
+        <item>Río Segundo</item>
+        <item>San Alberto</item>
+        <item>San Javier</item>
+        <item>San Justo</item>
+        <item>Santa María</item>
+        <item>Sobremonte</item>
+        <item>Tercero Arriba</item>
+        <item>Totoral</item>
+        <item>Tulumba</item>
+        <item>Unión</item>
+    </string-array>
+
+    <string-array name="corrientes">
+        <item>Bella Vista</item>
+        <item>Berón de Astrada</item>
+        <item>Capital</item>
+        <item>Concepción</item>
+        <item>Curuzu Cuatia</item>
+        <item>Empedrado</item>
+        <item>Esquina</item>
+        <item>General Alvear</item>
+        <item>General Paz</item>
+        <item>Goya</item>
+        <item>Itatí</item>
+        <item>Ituzaingó</item>
+        <item>Lavalle</item>
+        <item>Mburucuyá</item>
+        <item>Mercedes</item>
+        <item>Monte Caseros</item>
+        <item>Paso de los Libres</item>
+        <item>Saladas</item>
+        <item>San Cosme</item>
+        <item>San Luis del Palmar</item>
+        <item>San Martín</item>
+        <item>San Miguel</item>
+        <item>San Roque</item>
+        <item>Santo Tomé</item>
+        <item>Sauce</item>
+    </string-array>
+
+    <string-array name="entre_rios">
+        <item>Colón</item>
+        <item>Concordia</item>
+        <item>Diamante</item>
+        <item>Federación</item>
+        <item>Federal</item>
+        <item>Feliciano</item>
+        <item>Gualeguay</item>
+        <item>Gualeguaychú</item>
+        <item>Islas del Ibicuy</item>
+        <item>La Paz</item>
+        <item>Nogoyá</item>
+        <item>Paraná</item>
+        <item>San Salvador</item>
+        <item>Tala</item>
+        <item>Uruguay</item>
+        <item>Victoria</item>
+        <item>Villaguay</item>
+    </string-array>
+
+    <string-array name="formosa">
+        <item>Bermejo</item>
+        <item>Formosa</item>
+        <item>Laishí</item>
+        <item>Matacos</item>
+        <item>Patiño</item>
+        <item>Pilagás</item>
+        <item>Pilcomayo</item>
+        <item>Pirané</item>
+        <item>Ramón Lista</item>
+    </string-array>
+
+    <string-array name="jujuy">
+        <item>Cochinoca</item>
+        <item>Dr. Manuel Belgrano</item>
+        <item>El Carmen</item>
+        <item>Humahuaca</item>
+        <item>Ledesma</item>
+        <item>Palpalá</item>
+        <item>Rinconada</item>
+        <item>San Antonio</item>
+        <item>San Pedro</item>
+        <item>Santa Bárbara</item>
+        <item>Santa Catalina</item>
+        <item>Susques</item>
+        <item>Tilcara</item>
+        <item>Tumbaya</item>
+        <item>Valle Grande</item>
+        <item>Yaví</item>
+    </string-array>
+
+    <string-array name="la_pampa">
+        <item>Atreucó</item>
+        <item>Caleu Caleu</item>
+        <item>Capital</item>
+        <item>Catriló</item>
+        <item>Chalileo</item>
+        <item>Chapaleufú</item>
+        <item>Chical Co</item>
+        <item>Conhelo</item>
+        <item>Curacó</item>
+        <item>Guatraché</item>
+        <item>Hucal</item>
+        <item>Lihuel Calel</item>
+        <item>Limay Mahuida</item>
+        <item>Loventué</item>
+        <item>Maracó</item>
+        <item>Puelén</item>
+        <item>Quemú Quemú</item>
+        <item>Rancul</item>
+        <item>Realicó</item>
+        <item>Toay</item>
+        <item>Trenel</item>
+        <item>Utracán</item>
+    </string-array>
+
+    <string-array name="la_rioja">
+        <item>Arauco</item>
+        <item>Capital</item>
+        <item>Castro Barros</item>
+        <item>Chamical</item>
+        <item>Chilecito</item>
+        <item>Coronel Felipe Varela</item>
+        <item>Famatina</item>
+        <item>General Ángel V. Peñaloza</item>
+        <item>General Belgrano</item>
+        <item>General Juan F. Quiroga</item>
+        <item>General Lamadrid</item>
+        <item>General Ocampo</item>
+        <item>General San Martín</item>
+        <item>Independencia</item>
+        <item>Rosario Vera Peñaloza</item>
+        <item>San Blas de Los Sauces</item>
+        <item>Sanagasta</item>
+        <item>Vinchina</item>
+    </string-array>
+
+    <string-array name="mendoza">
+        <item>Capital</item>
+        <item>General Alvear</item>
+        <item>Godoy Cruz</item>
+        <item>Guaymallén</item>
+        <item>Junín</item>
+        <item>La Paz</item>
+        <item>Las Heras</item>
+        <item>Lavalle</item>
+        <item>Luján de Cuyo</item>
+        <item>Maipú</item>
+        <item>Malargüe</item>
+        <item>Rivadavia</item>
+        <item>San Carlos</item>
+        <item>San Martín</item>
+        <item>San Rafael</item>
+        <item>Santa Rosa</item>
+        <item>Tunuyán</item>
+        <item>Tupungato</item>
+    </string-array>
+
+    <string-array name="misiones">
+        <item>25 de Mayo</item>
+        <item>Apóstoles</item>
+        <item>Cainguás</item>
+        <item>Candelaria</item>
+        <item>Capital</item>
+        <item>Concepción</item>
+        <item>Eldorado</item>
+        <item>General Manuel Belgrano</item>
+        <item>Guaraní</item>
+        <item>Iguazú</item>
+        <item>Leandro N. Alem</item>
+        <item>Libertador General San Martín</item>
+        <item>Montecarlo</item>
+        <item>Oberá</item>
+        <item>San Ignacio</item>
+        <item>San Javier</item>
+        <item>San Pedro</item>
+    </string-array>
+
+    <string-array name="neuquen">
+        <item>Aluminé</item>
+        <item>Añelo</item>
+        <item>Catán Lil</item>
+        <item>Chos Malal</item>
+        <item>Collón Curá</item>
+        <item>Confluencia</item>
+        <item>Huiliches</item>
+        <item>Lácar</item>
+        <item>Loncopué</item>
+        <item>Los Lagos</item>
+        <item>Minas</item>
+        <item>Ñorquín</item>
+        <item>Pehuenches</item>
+        <item>Picún Leufú</item>
+        <item>Picunches</item>
+        <item>Zapala</item>
+    </string-array>
+
+
+    <string-array name="rio_negro">
+        <item>25 de Mayo</item>
+        <item>9 de julio</item>
+        <item>Adolfo Alsina</item>
+        <item>Avellaneda</item>
+        <item>Bariloche</item>
+        <item>Conesa</item>
+        <item>El Cuy</item>
+        <item>General Roca</item>
+        <item>Ñorquinco</item>
+        <item>Pichi Mahuida</item>
+        <item>Pilcaniyeu</item>
+        <item>San Antonio</item>
+        <item>Valcheta</item>
+    </string-array>
+
+    <string-array name="salta">
+        <item>Anta</item>
+        <item>Cachi</item>
+        <item>Cafayate</item>
+        <item>Capital</item>
+        <item>Cerrillos</item>
+        <item>Chicoana</item>
+        <item>General Güemes</item>
+        <item>General José de San Martín</item>
+        <item>Guachipas</item>
+        <item>Iruya</item>
+        <item>La Caldera</item>
+        <item>La Candelaria</item>
+        <item>La Poma</item>
+        <item>La Viña</item>
+        <item>Los Andes</item>
+        <item>Metán</item>
+        <item>Molinos</item>
+        <item>Orán</item>
+        <item>Rivadavia</item>
+        <item>Rosario de la Frontera</item>
+        <item>Rosario de Lerma</item>
+        <item>San Carlos</item>
+        <item>Santa Victoria</item>
+    </string-array>
+
+    <string-array name="san_juan">
+        <item>25 de Mayo</item>
+        <item>9 de Julio</item>
+        <item>Albardón</item>
+        <item>Angaco</item>
+        <item>Calingasta</item>
+        <item>Capital</item>
+        <item>Caucete</item>
+        <item>Chimbas</item>
+        <item>Iglesia</item>
+        <item>Jáchal</item>
+        <item>Pocito</item>
+        <item>Rawson</item>
+        <item>Rivadavia</item>
+        <item>San Martín</item>
+        <item>Santa Lucía</item>
+        <item>Sarmiento</item>
+        <item>Ullum</item>
+        <item>Valle Fértil</item>
+        <item>Zonda</item>
+    </string-array>
+
+    <string-array name="san_luis">
+        <item>Ayacucho</item>
+        <item>Belgrano</item>
+        <item>Chacabuco</item>
+        <item>Coronel Pringles</item>
+        <item>General Pedernera</item>
+        <item>Gobernador Dupuy</item>
+        <item>Juan Martín de Pueyrredón</item>
+        <item>Junín</item>
+        <item>Libertador General San Martín</item>
+    </string-array>
+
+    <string-array name="santa_cruz">
+        <item>Corpen Aike</item>
+        <item>Deseado</item>
+        <item>Güer Aike</item>
+        <item>Lago Argentino</item>
+        <item>Lago Buenos Aires</item>
+        <item>Magallanes</item>
+        <item>Río Chico</item>
+    </string-array>
+
+    <string-array name="santa_fe">
+        <item>9 de Julio</item>
+        <item>Belgrano</item>
+        <item>Caseros</item>
+        <item>Castellanos</item>
+        <item>Garay</item>
+        <item>General López</item>
+        <item>General Obligado</item>
+        <item>Iriondo</item>
+        <item>La Capital</item>
+        <item>Las Colonias</item>
+        <item>Rosario</item>
+        <item>San Cristóbal</item>
+        <item>San Javier</item>
+        <item>San Jerónimo</item>
+        <item>San Justo</item>
+        <item>San Lorenzo</item>
+        <item>San Martín</item>
+        <item>Vera</item>
+        <item>Villa Constitución</item>
+    </string-array>
+
+    <string-array name="santiago_del_estero">
+        <item>Aguirre</item>
+        <item>Alberdi</item>
+        <item>Atamisqui</item>
+        <item>Avellaneda</item>
+        <item>Banda</item>
+        <item>Belgrano</item>
+        <item>Capital</item>
+        <item>Choya</item>
+        <item>Copo</item>
+        <item>Figueroa</item>
+        <item>General Taboada</item>
+        <item>Guasayán</item>
+        <item>Jiménez</item>
+        <item>Juan F. Ibarra</item>
+        <item>Loreto</item>
+        <item>Mitre</item>
+        <item>Moreno</item>
+        <item>Ojo de Agua</item>
+        <item>Pellegrini</item>
+        <item>Quebrachos</item>
+        <item>Río Hondo</item>
+        <item>Rivadavia</item>
+        <item>Robles</item>
+        <item>Salavina</item>
+        <item>San Martín</item>
+        <item>Sarmiento</item>
+        <item>Silípica</item>
+    </string-array>
+
+
+    <string-array name="tierra_del_fuego">
+        <item>Antártida Argentina</item>
+        <item>Islas del Atlántico Sur</item>
+        <item>Río Grande</item>
+        <item>Tolhuin</item>
+        <item>Ushuaia</item>
+    </string-array>
+
+    <string-array name="tucuman">
+        <item>Burruyacú</item>
+        <item>Capital</item>
+        <item>Chicligasta</item>
+        <item>Cruz Alta</item>
+        <item>Famaillá</item>
+        <item>Graneros</item>
+        <item>Juan Bautista Alberdi</item>
+        <item>La Cocha</item>
+        <item>Leales</item>
+        <item>Lules</item>
+        <item>Monteros</item>
+        <item>Río Chico</item>
+        <item>Simoca</item>
+        <item>Tafí del Valle</item>
+        <item>Tafí Viejo</item>
+        <item>Trancas</item>
+        <item>Yerba Buena</item>
+    </string-array>
+
+</resources>

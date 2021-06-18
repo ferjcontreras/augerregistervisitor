@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b1f818272d8ba0d328a07e6613afd3f/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b157edd6f1f9cec56f351f886c6840c/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/1ebd54fd229b713230f5dd89fae4a274/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8690e454ec01b36341d68f395bb5e96b/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/0eac88e6e9e6caddf96cd98c810acb04/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f185ea34c3963e1ae0d14567cf689378/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/05b4edc1d66a11a476bbae477b546e02/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d743865c994697ca8a8908e67f6cc935/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2004d4dd29d68522bed676ad0beb7a61/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/89d0e81890c9d2627a863bde8225638a/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/03c455500b73e2fb28c6c2c5f2c37189/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b11f532996e00028a1f53a300ef9644/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/602344491d0aeed395e53daabc5dd3f9/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/71280c9e1674a5d7c6eeeed746f21860/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/778e7d0d43325024c0add7124cf4da77/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/dd8aea246965ec88ead7f11407fd18e4/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b7f2afe28ffca5f94828575978b6a4a8/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/a9c1b6298e9c2f80cab7f6bd8f57213f/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/657feb6116cc396e491b6a274bd1c326/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/67052e7895eeb68e121aef0bf520bfca/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b0ecd083f0c47deb45b9f4622c1b9441/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/7ee34cb9d7211569541ea31aa92624b2/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc3c3bed7c6e088dd9ff87b74e6c0457/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d97312d3fd47b5c48a385538807c6ba4/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc2cd980ed7b43017910ac7c650131b0/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f5adb00c4ab2a696d245ca2da9e02980/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2451f7a26550893fe9e9f796db769fd7/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8c753574fa5d5bedb9073bcd00606867/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.REORDER_TASKS
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:6:22-69
+application
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b157edd6f1f9cec56f351f886c6840c/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b157edd6f1f9cec56f351f886c6840c/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/a9c1b6298e9c2f80cab7f6bd8f57213f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/a9c1b6298e9c2f80cab7f6bd8f57213f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:14:9-48
+activity#com.example.augerregistervisitor.MainActivity
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:16:13-51
+	android:launchMode
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:18:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:21:27-74
+category#android.intent.category.HOME
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:22:17-73
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:22:27-70
+category#android.intent.category.DEFAULT
+ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml:23:27-73
+uses-sdk
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b1f818272d8ba0d328a07e6613afd3f/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b1f818272d8ba0d328a07e6613afd3f/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b157edd6f1f9cec56f351f886c6840c/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b157edd6f1f9cec56f351f886c6840c/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/1ebd54fd229b713230f5dd89fae4a274/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/1ebd54fd229b713230f5dd89fae4a274/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8690e454ec01b36341d68f395bb5e96b/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8690e454ec01b36341d68f395bb5e96b/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/0eac88e6e9e6caddf96cd98c810acb04/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/0eac88e6e9e6caddf96cd98c810acb04/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f185ea34c3963e1ae0d14567cf689378/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f185ea34c3963e1ae0d14567cf689378/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/05b4edc1d66a11a476bbae477b546e02/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/05b4edc1d66a11a476bbae477b546e02/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d743865c994697ca8a8908e67f6cc935/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d743865c994697ca8a8908e67f6cc935/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2004d4dd29d68522bed676ad0beb7a61/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2004d4dd29d68522bed676ad0beb7a61/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/89d0e81890c9d2627a863bde8225638a/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/89d0e81890c9d2627a863bde8225638a/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/03c455500b73e2fb28c6c2c5f2c37189/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/03c455500b73e2fb28c6c2c5f2c37189/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b11f532996e00028a1f53a300ef9644/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/6b11f532996e00028a1f53a300ef9644/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/602344491d0aeed395e53daabc5dd3f9/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/602344491d0aeed395e53daabc5dd3f9/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/71280c9e1674a5d7c6eeeed746f21860/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/71280c9e1674a5d7c6eeeed746f21860/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/778e7d0d43325024c0add7124cf4da77/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/778e7d0d43325024c0add7124cf4da77/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/dd8aea246965ec88ead7f11407fd18e4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/dd8aea246965ec88ead7f11407fd18e4/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b7f2afe28ffca5f94828575978b6a4a8/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b7f2afe28ffca5f94828575978b6a4a8/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/c7f118c5b416c9552d6b43268e84f45a/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/a9c1b6298e9c2f80cab7f6bd8f57213f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/a9c1b6298e9c2f80cab7f6bd8f57213f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/657feb6116cc396e491b6a274bd1c326/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/657feb6116cc396e491b6a274bd1c326/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/67052e7895eeb68e121aef0bf520bfca/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/67052e7895eeb68e121aef0bf520bfca/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b0ecd083f0c47deb45b9f4622c1b9441/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/b0ecd083f0c47deb45b9f4622c1b9441/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/7ee34cb9d7211569541ea31aa92624b2/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/7ee34cb9d7211569541ea31aa92624b2/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc3c3bed7c6e088dd9ff87b74e6c0457/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc3c3bed7c6e088dd9ff87b74e6c0457/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d97312d3fd47b5c48a385538807c6ba4/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/d97312d3fd47b5c48a385538807c6ba4/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc2cd980ed7b43017910ac7c650131b0/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/bc2cd980ed7b43017910ac7c650131b0/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f5adb00c4ab2a696d245ca2da9e02980/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/f5adb00c4ab2a696d245ca2da9e02980/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2451f7a26550893fe9e9f796db769fd7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/2451f7a26550893fe9e9f796db769fd7/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8c753574fa5d5bedb9073bcd00606867/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fcontreras/.gradle/caches/transforms-2/files-2.1/8c753574fa5d5bedb9073bcd00606867/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		ADDED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/src/main/AndroidManifest.xml

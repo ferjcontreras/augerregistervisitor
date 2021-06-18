@@ -1,0 +1,4 @@
+#Sat Mar 06 19:04:22 ART 2021
+base.0=/home/fcontreras/AndroidStudioProjects/AugerRegisterVisitor/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/botonredondo"
+        android:fontFamily="casual"
+        android:text="Atrás"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/back_obs"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="center"
+            android:text="Registro de Visitantes"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textColor="#212121" />
+
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="Nombre del Grupo o Institución"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#212121"
+            android:textSize="70sp"
+            android:textFontWeight="bold"
+            />
+
+
+
+        <EditText
+            android:id="@+id/nombre_grupo"
+            android:layout_width="800dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittextstyle"
+            android:ellipsize="start"
+            android:fontFamily="casual"
+            android:inputType="text"
+            android:textSize="40sp"
+            android:padding="10dp"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+        <Button
+            android:layout_marginTop="70dp"
+            android:id="@+id/nextA"
+            android:layout_width="300dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:background="@drawable/botonredondo"
+            android:fontFamily="casual"
+            android:text="Siguiente"
+            android:textSize="40sp">
+
+        </Button>
+
+    </LinearLayout>
+</FrameLayout>

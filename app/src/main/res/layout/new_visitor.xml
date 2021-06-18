@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_obs"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:fontFamily="sans-serif-thin"
+        android:gravity="center"
+        android:text="Registro de Visitantes"
+        android:textAppearance="@style/TextAppearance.AppCompat.Small"
+        android:textColor="#212121" />
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:text="Registro de Visitantes"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="#212121"
+            android:textSize="70sp"
+            android:textFontWeight="bold"
+            />
+
+
+
+        <Button
+            android:id="@+id/nuevo"
+            android:layout_width="600dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/botonredondo"
+            android:fontFamily="casual"
+            android:text="Registrar Visitante(s)"
+            android:textSize="40sp"
+            android:padding="15dp">
+        </Button>
+    <Button
+        android:id="@+id/nuevo_grupo"
+        android:layout_width="600dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/botonredondo"
+        android:fontFamily="casual"
+        android:text="Registrar Institución"
+        android:textSize="40sp"
+        android:padding="15dp"
+        android:layout_marginTop="50dp">
+    </Button>
+</LinearLayout>

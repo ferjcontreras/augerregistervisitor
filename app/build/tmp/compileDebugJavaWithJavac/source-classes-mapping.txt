@@ -1,0 +1,77 @@
+com/example/augerregistervisitor/EscuelaHolder.java
+ com.example.augerregistervisitor.EscuelaHolder
+com/example/augerregistervisitor/EdadAdapter.java
+ com.example.augerregistervisitor.EdadAdapter
+ com.example.augerregistervisitor.EdadAdapter$1
+ com.example.augerregistervisitor.EdadAdapter$2
+com/example/augerregistervisitor/NewSchoolFragment.java
+ com.example.augerregistervisitor.NewSchoolFragment
+ com.example.augerregistervisitor.NewSchoolFragment$1
+com/example/augerregistervisitor/ConfirmFragment.java
+ com.example.augerregistervisitor.ConfirmFragment
+ com.example.augerregistervisitor.ConfirmFragment$1
+ com.example.augerregistervisitor.ConfirmFragment$1$1
+ com.example.augerregistervisitor.ConfirmFragment$1$1$1
+ com.example.augerregistervisitor.ConfirmFragment$1$1$2
+ com.example.augerregistervisitor.ConfirmFragment$1$1$3
+ com.example.augerregistervisitor.ConfirmFragment$1$1$4
+ com.example.augerregistervisitor.ConfirmFragment$2
+ com.example.augerregistervisitor.ConfirmFragment$FromConfirmToActivity
+com/example/augerregistervisitor/TextItem.java
+ com.example.augerregistervisitor.TextItem
+com/example/augerregistervisitor/NewVisitorFragment.java
+ com.example.augerregistervisitor.NewVisitorFragment
+ com.example.augerregistervisitor.NewVisitorFragment$1
+ com.example.augerregistervisitor.NewVisitorFragment$2
+ com.example.augerregistervisitor.NewVisitorFragment$FromNewVisitortoActivity
+com/example/augerregistervisitor/EdadItemHolder.java
+ com.example.augerregistervisitor.EdadItemHolder
+com/example/augerregistervisitor/EscuelaAdapter.java
+ com.example.augerregistervisitor.EscuelaAdapter
+com/example/augerregistervisitor/QuantityGroupFragment.java
+ com.example.augerregistervisitor.QuantityGroupFragment
+ com.example.augerregistervisitor.QuantityGroupFragment$1
+ com.example.augerregistervisitor.QuantityGroupFragment$10
+ com.example.augerregistervisitor.QuantityGroupFragment$2
+ com.example.augerregistervisitor.QuantityGroupFragment$3
+ com.example.augerregistervisitor.QuantityGroupFragment$4
+ com.example.augerregistervisitor.QuantityGroupFragment$5
+ com.example.augerregistervisitor.QuantityGroupFragment$6
+ com.example.augerregistervisitor.QuantityGroupFragment$7
+ com.example.augerregistervisitor.QuantityGroupFragment$8
+ com.example.augerregistervisitor.QuantityGroupFragment$9
+ com.example.augerregistervisitor.QuantityGroupFragment$QGroupActivity
+com/example/augerregistervisitor/SpinnerAdapter.java
+ com.example.augerregistervisitor.SpinnerAdapter
+com/example/augerregistervisitor/IngreseGrupoFragment.java
+ com.example.augerregistervisitor.IngreseGrupoFragment
+ com.example.augerregistervisitor.IngreseGrupoFragment$1
+ com.example.augerregistervisitor.IngreseGrupoFragment$2
+ com.example.augerregistervisitor.IngreseGrupoFragment$GroupFragmentActivity
+com/example/augerregistervisitor/LocationFragment.java
+ com.example.augerregistervisitor.LocationFragment
+ com.example.augerregistervisitor.LocationFragment$1
+ com.example.augerregistervisitor.LocationFragment$2
+ com.example.augerregistervisitor.LocationFragment$3
+ com.example.augerregistervisitor.LocationFragment$4
+ com.example.augerregistervisitor.LocationFragment$5
+ com.example.augerregistervisitor.LocationFragment$FromLocationToActivity
+com/example/augerregistervisitor/BuildConfig.java
+ com.example.augerregistervisitor.BuildConfig
+com/example/augerregistervisitor/MainActivity.java
+ com.example.augerregistervisitor.MainActivity
+ com.example.augerregistervisitor.MainActivity$1
+com/example/augerregistervisitor/QuantityFragment.java
+ com.example.augerregistervisitor.QuantityFragment
+ com.example.augerregistervisitor.QuantityFragment$1
+ com.example.augerregistervisitor.QuantityFragment$2
+ com.example.augerregistervisitor.QuantityFragment$3
+ com.example.augerregistervisitor.QuantityFragment$4
+ com.example.augerregistervisitor.QuantityFragment$FromQuantityToActivity
+com/example/augerregistervisitor/EmailFragment.java
+ com.example.augerregistervisitor.EmailFragment
+ com.example.augerregistervisitor.EmailFragment$1
+ com.example.augerregistervisitor.EmailFragment$2
+ com.example.augerregistervisitor.EmailFragment$FromEmailtoActivity
+com/example/augerregistervisitor/Escuela.java
+ com.example.augerregistervisitor.Escuela
